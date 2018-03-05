@@ -63,3 +63,13 @@ Now, any user with access to `sblab-srv001` can access rstudio with his/her user
 
 <img src=pics/rstudio-front.png width=600>
 
+
+Starting rstudio-server
+------------------------
+
+To manually stop, start, and restart the server you use the following commands:
+
+$ sudo rstudio-server stop
+$ sudo rstudio-server start
+$ sudo rstudio-server restart
+
